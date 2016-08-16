@@ -1,0 +1,138 @@
+.navbar {
+  background-color: rgba(255, 255, 255, 0.7) !important;
+  height: 20px !important;
+}
+
+.menu {
+  font-family: helvetica, sans-serif;
+  font-size: 1.2em;
+}
+
+#header {
+  background: url("../img/AdobeStock_79362139_WM_wide.jpg");
+  width: 100%;
+  height: 700px;
+  background-size: cover;
+  
+  margin-top: -50px;
+}
+
+/* Header für Visitenkarte */
+a {
+  color: lightgrey;
+}
+
+a:hover {
+  color: grey;
+  text-decoration: none;
+}
+
+body {
+  background: url("../img/uschi_1.jpg");
+  width: auto;
+  height: 100%;
+  background-size: cover;
+  background-repeat: none;
+}
+#title {
+  text-align: center;
+  margin-top: 150px;
+  font-size: 2.8em;
+  color: grey;
+  font-family: 'Ubuntu', sans-serif;
+  letter-spacing: 0.05em;
+}
+
+#title_name {
+  text-align: center;
+    font-size: 2.0em;
+  color: grey;
+  font-family: 'Ubuntu', sans-serif;
+  letter-spacing: 0.05em;
+}
+
+#was {
+  width: 100%;
+  height: auto;
+}
+
+h3 {
+  text-align: center;
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 2.5em;
+  color: grey;
+}
+
+.page_header {
+  margin-top: 150px;
+}
+
+.page_header_second_line {
+  margin-bottom: 40px;
+}
+
+li {
+  text-align: center;
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 1.9em;
+  color: grey;
+  list-style: none;
+  margin-bottom: 5px;
+  padding-right: 40px;
+}
+
+#wie {
+  width: 100%;
+  height: auto;
+  background-color: grey;
+}
+
+p {
+  text-align: center;
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 1.9em;
+  color: white;
+  margin-bottom: 15px;
+}
+
+span {
+  color: lightgrey;
+}
+
+#secondImage {
+  background: url("../img/AdobeStock_87174599_WM.jpg");
+  width: 100%;
+  height: 500px;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+#kontakt {
+  width: 100%;
+  height: 1000px;
+  background-color: white;
+  background: url("../img/dagmar_laila.jpg");
+  background-size: cover;
+}
+
+#contact_sheet {
+  background-color: rgba(255, 255, 255, 0.3);
+  margin-top: 90px;
+}
+
+.modal-body {
+  height: 500px;
+  width: auto;
+  text-align: center;
+}
+
+.modal-dialog {
+  width: 60%; !important;
+}
+
+footer {
+  background-color: grey;
+  width: 100%;
+  height: 50px;
+}
+
